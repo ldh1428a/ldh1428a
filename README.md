@@ -30,7 +30,7 @@
 
 <div align=center>
   
-[![Kalee Wiki Badge](http://img.shields.io/badge/-kalee%20wiki-ff1759?style=flat&logo=wikipedia&link=https://wiki.kalee.land)](https://wiki.kalee.land)
+[![Kalee Wiki Badge](http://img.shields.io/badge/-kalee%20wiki-ff1759?style=flat&logo=wikipedia&link=http://wiki.kalee.land)](http://wiki.kalee.land)
 &nbsp;&nbsp;&nbsp;&nbsp;[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/%EB%8F%99%ED%98%84-%EC%9D%B4-73b955161/)](https://www.linkedin.com/in/%EB%8F%99%ED%98%84-%EC%9D%B4-73b955161/)
 &nbsp;&nbsp;&nbsp;&nbsp;[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:ldh1428a@gmail.com)](mailto:ldh1428a@gmail.com)
 
