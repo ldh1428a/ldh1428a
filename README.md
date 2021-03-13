@@ -14,6 +14,7 @@
 
 #### Education
 [Sogang University](https://sogang.ac.kr) | [Computer Science & Engineering Dept.](https://cs.sogang.ac.kr/cs/index_new.html) | [M.S.](https://en.wikipedia.org/wiki/Master%27s_degree)
+
 [Dongseo University](https://dongseo.ac.kr) | [Computer Engineering Dept.](https://uni.dongseo.ac.kr/software/) | [B.S.](https://en.wikipedia.org/wiki/Bachelor%27s_degree)
 
 
