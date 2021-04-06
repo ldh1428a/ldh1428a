@@ -7,10 +7,6 @@
 #### Careeer
 ##### 2020-01-28~
 (주)코비젼 입사 (현재 재직중)
-##### 2018-02-22~ 2020-02-10
-서강대학교 석사과정
-##### 2014-02-17~ 2018-02-17
-동서대학교 학사과정
 
 #### Education
 [Sogang University](https://sogang.ac.kr) | [Computer Science & Engineering Dept.](https://cs.sogang.ac.kr/cs/index_new.html) | [M.S.](https://en.wikipedia.org/wiki/Master%27s_degree)
