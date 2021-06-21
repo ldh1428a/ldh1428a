@@ -6,7 +6,7 @@
 
 #### Careeer
 ##### 2020-01-28~
-(주)코비젼 입사 (현재 재직중)
+Software Development & Research *Junior*, ([Covision Corp., Ltd.](https://www.covision.co.kr), 2020-01-28 ~ Now)
 
 #### Education
 *Master of Science in Computer Engineering & Science* ([Sogang University](https://cs.sogang.ac.kr/cs/index_new.html), 2020)
