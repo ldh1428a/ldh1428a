@@ -5,7 +5,6 @@
 현재 Profile 페이지는 업데이트 중이여서 많은 정보를 못볼 수 있습니다. 😥😥😥
 
 #### Careeer
-##### 2020-01-28~
 Software Development & Research *Junior*, ([Covision Corp., Ltd.](https://www.covision.co.kr), 2020-01-28 ~ Now)
 
 #### Education
