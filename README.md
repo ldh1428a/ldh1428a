@@ -10,6 +10,7 @@
 
 #### Education
 *Master of Science in Computer Engineering & Science* ([Sogang University](https://cs.sogang.ac.kr/cs/index_new.html), 2020)
+
 *Bachelor of Science in Software Engineering* ([Dongseo University](https://uni.dongseo.ac.kr/software), 2018)
 
 ## My Strength
