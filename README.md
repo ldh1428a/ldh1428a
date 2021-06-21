@@ -13,9 +13,9 @@ Software Development & Research *Junior*, ([Covision Corp., Ltd.](https://www.co
 <hr>
 
 ### Education
-*Master of Science in Computer Engineering & Science* ([Sogang University](https://cs.sogang.ac.kr/cs/index_new.html), 2020)
+*Master of Science in Computer Engineering & Science* ([Sogang University](https://cs.sogang.ac.kr/cs/index_new.html), 2018 ~ 2020)
 
-*Bachelor of Science in Software Engineering* ([Dongseo University](https://uni.dongseo.ac.kr/software), 2018)
+*Bachelor of Science in Software Engineering* ([Dongseo University](https://uni.dongseo.ac.kr/software), 2014 ~ 2018)
 
 <hr>
 
