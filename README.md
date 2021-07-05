@@ -7,7 +7,7 @@ Now, profile editing is in progress, so you may not be able to provide correct i
 
 <hr>
 
-### Careeer
+### Career
 Software Development & Research *Junior*, ([Covision Corp., Ltd.](https://www.covision.co.kr), 2020-01-28 ~ Now)
 
 <hr>
